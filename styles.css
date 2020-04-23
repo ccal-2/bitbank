@@ -1,0 +1,12 @@
+    .btn {
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .transacciones {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-decoration: solid;
+        color: deepskyblue;
+    }
